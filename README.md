@@ -21,8 +21,8 @@ Display the result.
 
 ## PROGRAM:
 ```
-Developed by:RUCHITRA THIYAGARAJ
-Register No: 23000100
+Developed by:A.Mandhakini
+Register No: 23010115
 
 To write a python program for reading content from a CSV file.
 ```
